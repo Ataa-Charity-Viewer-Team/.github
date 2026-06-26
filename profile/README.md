@@ -31,6 +31,3 @@ graph TD
 | ⚙️ **[Ataa-Charity-Platform-API](https://github.com/Ataa-Charity-Viewer-Team/Ataa-Charity-Platform-API)** | Backend | خادم البرمجة الخلفي لإدارة الحملات وتوثيق المتبرعين والجمعيات الشريكة والتحقق من المعاملات. | ![Node.js](https://img.shields.io/badge/Node.js-v18-green?logo=nodedotjs&style=flat-square) ![Express.js](https://img.shields.io/badge/Express.js-v4-black?logo=express&style=flat-square) |
 
 ---
-
-## 👥 فريق العمل والمساهمون (Contributors)
-*   **سيد حرز الله** - Lead Software Architect & Systems Developer.
